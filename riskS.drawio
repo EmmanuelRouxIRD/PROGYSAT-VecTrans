@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-04-26T14:07:43.284Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="PL_Uc6P_hDvjhpNrCEty" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-04-26T14:13:09.674Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36" etag="Uv1s5KR5y4YC_wzAEzt3" version="17.4.6" type="github">
   <diagram id="38th9O3G4NUoZw0PNw10" name="Page-1">
     <mxGraphModel dx="1355" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -19,11 +19,13 @@
         <mxCell id="sy1TdjbyyDsSKTRaHpsp-6" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="sy1TdjbyyDsSKTRaHpsp-5">
           <mxGeometry y="26" width="220" height="8" as="geometry" />
         </mxCell>
-        <mxCell id="sy1TdjbyyDsSKTRaHpsp-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;endArrow=block;endFill=0;" edge="1" parent="1" source="sy1TdjbyyDsSKTRaHpsp-7" target="sy1TdjbyyDsSKTRaHpsp-1">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="sy1TdjbyyDsSKTRaHpsp-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=block;endFill=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="sy1TdjbyyDsSKTRaHpsp-7" target="sy1TdjbyyDsSKTRaHpsp-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="430" y="150" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="sy1TdjbyyDsSKTRaHpsp-7" value="Risque de piqûre" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="240" y="260" width="110" height="34" as="geometry" />
+          <mxGeometry x="250" y="260" width="110" height="34" as="geometry" />
         </mxCell>
         <mxCell id="sy1TdjbyyDsSKTRaHpsp-8" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="sy1TdjbyyDsSKTRaHpsp-7">
           <mxGeometry y="26" width="110" height="8" as="geometry" />
@@ -34,10 +36,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="sy1TdjbyyDsSKTRaHpsp-9" value="Risque de piqûre infectante (de transmission)" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="360" y="260" width="280" height="34" as="geometry" />
+          <mxGeometry x="370" y="260" width="270" height="34" as="geometry" />
         </mxCell>
         <mxCell id="sy1TdjbyyDsSKTRaHpsp-10" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="sy1TdjbyyDsSKTRaHpsp-9">
-          <mxGeometry y="26" width="280" height="8" as="geometry" />
+          <mxGeometry y="26" width="270" height="8" as="geometry" />
         </mxCell>
         <mxCell id="sy1TdjbyyDsSKTRaHpsp-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=0;" edge="1" parent="1" source="sy1TdjbyyDsSKTRaHpsp-11" target="sy1TdjbyyDsSKTRaHpsp-1">
           <mxGeometry relative="1" as="geometry" />
@@ -65,6 +67,20 @@
         </mxCell>
         <mxCell id="sy1TdjbyyDsSKTRaHpsp-16" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="sy1TdjbyyDsSKTRaHpsp-15">
           <mxGeometry y="26" width="150" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="sy1TdjbyyDsSKTRaHpsp-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;endArrow=block;endFill=0;" edge="1" parent="1" source="sy1TdjbyyDsSKTRaHpsp-24" target="sy1TdjbyyDsSKTRaHpsp-1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="160" />
+              <mxPoint x="400" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="sy1TdjbyyDsSKTRaHpsp-24" value="Risque de (ré-)introduction du paludisme" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="120" y="360" width="240" height="34" as="geometry" />
+        </mxCell>
+        <mxCell id="sy1TdjbyyDsSKTRaHpsp-25" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="sy1TdjbyyDsSKTRaHpsp-24">
+          <mxGeometry y="26" width="240" height="8" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
