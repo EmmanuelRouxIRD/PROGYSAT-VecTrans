@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-16T13:21:47.677Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="77QoDAEantLOavKewU1j" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-16T13:28:14.184Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="CQr4eLqzGBHTcFidwjSJ" version="17.4.6" type="github">
   <diagram name="Page-1" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
     <mxGraphModel dx="934" dy="536" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -63,13 +63,13 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="nrVkR4IynNPe9QYhxefa-5" value="Risque" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="350" y="180" width="160" height="60" as="geometry" />
+          <mxGeometry x="350" y="180" width="390" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="nrVkR4IynNPe9QYhxefa-6" value="+ niveau: real" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="nrVkR4IynNPe9QYhxefa-5">
-          <mxGeometry y="26" width="160" height="26" as="geometry" />
+        <mxCell id="nrVkR4IynNPe9QYhxefa-6" value="+ probabilité, éventualité d&#39;occurrence de l&#39;évén. dommageable: real" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="nrVkR4IynNPe9QYhxefa-5">
+          <mxGeometry y="26" width="390" height="26" as="geometry" />
         </mxCell>
         <mxCell id="nrVkR4IynNPe9QYhxefa-7" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="nrVkR4IynNPe9QYhxefa-5">
-          <mxGeometry y="52" width="160" height="8" as="geometry" />
+          <mxGeometry y="52" width="390" height="8" as="geometry" />
         </mxCell>
         <mxCell id="nrVkR4IynNPe9QYhxefa-9" value="Risque&amp;nbsp;= éventualité d&#39;occurrence d&#39;un événement dommageable&lt;br&gt;lié à l&#39;exposition d&#39;enjeux vulnérables à un aléa.&lt;br&gt;L&#39;aléa est alors perçu comme un danger." style="text;resizable=1;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;html=1;labelPosition=center;verticalLabelPosition=middle;horizontal=1;labelBackgroundColor=none;labelBorderColor=none;resizeWidth=0;" vertex="1" parent="1">
           <mxGeometry x="40" y="110" width="360" height="50" as="geometry" />
