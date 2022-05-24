@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-24T12:18:58.702Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="-RCvCLtH6tdT5_vrNv-a" version="18.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-24T12:31:39.251Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="1IxqI04cqGslsJNBFqWq" version="18.0.5" type="github">
   <diagram id="sjIGyA0L-yftcxIgUs3-" name="Page-1">
     <mxGraphModel dx="1355" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -41,7 +41,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="B0NhF84q1_BdPxFJ3prT-14" value="" style="triangle;aspect=fixed;fillColor=#000000;" vertex="1" parent="1">
-          <mxGeometry x="310" y="220" width="6" height="12" as="geometry" />
+          <mxGeometry x="284" y="220" width="6" height="12" as="geometry" />
         </mxCell>
         <mxCell id="B0NhF84q1_BdPxFJ3prT-16" value="Susceptibilité à l&#39;exposition" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
           <mxGeometry x="390" y="300" width="400" height="60" as="geometry">
