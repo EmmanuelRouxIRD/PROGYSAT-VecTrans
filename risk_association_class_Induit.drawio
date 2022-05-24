@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2022-05-16T13:28:11.270Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.54 Safari/537.36" etag="RdjP08_Rpial14kkUhjW" version="17.4.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-24T12:46:53.054Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="gI3tZEvz-aCcoBn28AQb" version="18.0.5" type="github">
   <diagram id="G8zqk6VQ2zBWMdKnbWK5" name="Page-1">
-    <mxGraphModel dx="1355" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="774" dy="459" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="VtFoWukt5FTa5U3CbqhS-1" value="Exposition" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="260" y="440" width="160" height="60" as="geometry">
+          <mxGeometry x="260" y="430" width="160" height="60" as="geometry">
             <mxRectangle x="600" y="310" width="90" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -40,7 +40,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VtFoWukt5FTa5U3CbqhS-16" value="Induit" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="260" y="370" width="160" height="34" as="geometry">
+          <mxGeometry x="260" y="350" width="160" height="34" as="geometry">
             <mxRectangle x="600" y="310" width="90" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -56,16 +56,16 @@
             <mxPoint x="400" y="412" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="sm__ZXjSmFJlFlpydmfL-4" value="Risque&amp;nbsp;= éventualité d&#39;occurrence d&#39;un événement dommageable&lt;br&gt;lié à l&#39;exposition d&#39;enjeux vulnérables à un aléa.&lt;br&gt;L&#39;aléa est alors perçu comme un danger." style="text;resizable=1;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;html=1;labelPosition=center;verticalLabelPosition=middle;horizontal=1;labelBackgroundColor=none;labelBorderColor=none;resizeWidth=0;" vertex="1" parent="1">
+        <mxCell id="sm__ZXjSmFJlFlpydmfL-4" value="Risque&amp;nbsp;= éventualité d&#39;occurrence d&#39;un événement dommageable&lt;br&gt;lié à l&#39;exposition d&#39;enjeux vulnérables à un aléa.&lt;br&gt;L&#39;aléa est alors perçu comme un danger." style="text;resizable=1;autosize=1;align=center;verticalAlign=middle;points=[];fillColor=none;strokeColor=none;rounded=0;html=1;labelPosition=center;verticalLabelPosition=middle;horizontal=1;labelBackgroundColor=none;labelBorderColor=none;resizeWidth=0;" parent="1" vertex="1">
           <mxGeometry x="50" y="80" width="360" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="sm__ZXjSmFJlFlpydmfL-5" value="Risque" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+        <mxCell id="sm__ZXjSmFJlFlpydmfL-5" value="Risque" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
           <mxGeometry x="190" y="170" width="390" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sm__ZXjSmFJlFlpydmfL-6" value="+ probabilité, éventualité d&#39;occurrence de l&#39;évén. dommageable: real" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="sm__ZXjSmFJlFlpydmfL-5">
+        <mxCell id="sm__ZXjSmFJlFlpydmfL-6" value="+ probabilité, éventualité d&#39;occurrence de l&#39;évén. dommageable: real" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="sm__ZXjSmFJlFlpydmfL-5" vertex="1">
           <mxGeometry y="26" width="390" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="sm__ZXjSmFJlFlpydmfL-7" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="sm__ZXjSmFJlFlpydmfL-5">
+        <mxCell id="sm__ZXjSmFJlFlpydmfL-7" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="sm__ZXjSmFJlFlpydmfL-5" vertex="1">
           <mxGeometry y="52" width="390" height="8" as="geometry" />
         </mxCell>
       </root>
