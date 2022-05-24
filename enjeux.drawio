@@ -1,17 +1,17 @@
-<mxfile host="app.diagrams.net" modified="2022-05-24T10:28:52.381Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="KBU05DWmGywRpDZLKYuY" version="18.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-24T10:36:17.743Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="Y8P9jVTENRuyn5g2iuWB" version="18.0.5" type="github">
   <diagram id="p6t1xGRjiH8hZAtJBaEH" name="Page-1">
     <mxGraphModel dx="1355" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="fkNfoiBsVdpP70R4Vi2L-1" value="Enjeu" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="320" y="230" width="160" height="60" as="geometry" />
+          <mxGeometry x="210" y="190" width="320" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="fkNfoiBsVdpP70R4Vi2L-2" value="+ vulnérabilité: real" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="fkNfoiBsVdpP70R4Vi2L-1">
-          <mxGeometry y="26" width="160" height="26" as="geometry" />
+        <mxCell id="fkNfoiBsVdpP70R4Vi2L-2" value="+ vulnérabilité (lieux de vie, activité, susc. ind., ...): real" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="fkNfoiBsVdpP70R4Vi2L-1">
+          <mxGeometry y="26" width="320" height="26" as="geometry" />
         </mxCell>
         <mxCell id="fkNfoiBsVdpP70R4Vi2L-3" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="fkNfoiBsVdpP70R4Vi2L-1">
-          <mxGeometry y="52" width="160" height="8" as="geometry" />
+          <mxGeometry y="52" width="320" height="8" as="geometry" />
         </mxCell>
         <mxCell id="fkNfoiBsVdpP70R4Vi2L-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;endArrow=block;endFill=0;" edge="1" parent="1" source="fkNfoiBsVdpP70R4Vi2L-4" target="fkNfoiBsVdpP70R4Vi2L-1">
           <mxGeometry relative="1" as="geometry" />
