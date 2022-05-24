@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-24T12:25:59.817Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="i0leh89EHx_Doxb4YqWO" version="18.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-24T12:26:21.803Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="ZMW08128xjmbcfIfJs-N" version="18.0.5" type="github">
   <diagram id="p6t1xGRjiH8hZAtJBaEH" name="Page-1">
     <mxGraphModel dx="1355" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -67,7 +67,7 @@
         <mxCell id="fkNfoiBsVdpP70R4Vi2L-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=block;endFill=0;" edge="1" parent="1" source="fkNfoiBsVdpP70R4Vi2L-21" target="fkNfoiBsVdpP70R4Vi2L-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fkNfoiBsVdpP70R4Vi2L-21" value="Orpailleurs" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+        <mxCell id="fkNfoiBsVdpP70R4Vi2L-21" value="Orpailleur" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
           <mxGeometry x="125" y="680" width="130" height="58" as="geometry" />
         </mxCell>
         <mxCell id="fkNfoiBsVdpP70R4Vi2L-22" value="+ ..." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="fkNfoiBsVdpP70R4Vi2L-21">
