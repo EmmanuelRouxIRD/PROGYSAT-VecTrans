@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-05-24T09:49:52.148Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="tWiJodLdghiDa4LhO__z" version="18.0.5" type="github">
+<mxfile host="app.diagrams.net" modified="2022-05-24T10:28:52.381Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/101.0.4951.64 Safari/537.36" etag="KBU05DWmGywRpDZLKYuY" version="18.0.5" type="github">
   <diagram id="p6t1xGRjiH8hZAtJBaEH" name="Page-1">
     <mxGraphModel dx="1355" dy="777" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -41,25 +41,40 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="fkNfoiBsVdpP70R4Vi2L-12" value="Habitants de la zone transfrontalière" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="250" y="585" width="230" height="148" as="geometry" />
+          <mxGeometry x="360" y="600" width="230" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="fkNfoiBsVdpP70R4Vi2L-13" value="+ lieux de vie: char&#xa;+ activités (%): real&#xa;+ densité: real&#xa;+ susceptibilité individuelle (génétique, G6PD, ...) (taux): real&#xa;+ connaissance du risque: real&#xa;+ protections individuelles (taux d&#39;utilisation): real&#xa;+..." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="fkNfoiBsVdpP70R4Vi2L-12">
-          <mxGeometry y="26" width="230" height="114" as="geometry" />
+        <mxCell id="fkNfoiBsVdpP70R4Vi2L-13" value="+ ..." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="fkNfoiBsVdpP70R4Vi2L-12">
+          <mxGeometry y="26" width="230" height="24" as="geometry" />
         </mxCell>
         <mxCell id="fkNfoiBsVdpP70R4Vi2L-14" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="fkNfoiBsVdpP70R4Vi2L-12">
-          <mxGeometry y="140" width="230" height="8" as="geometry" />
+          <mxGeometry y="50" width="230" height="8" as="geometry" />
         </mxCell>
         <mxCell id="fkNfoiBsVdpP70R4Vi2L-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;endArrow=block;endFill=0;" edge="1" parent="1" source="fkNfoiBsVdpP70R4Vi2L-15" target="fkNfoiBsVdpP70R4Vi2L-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fkNfoiBsVdpP70R4Vi2L-15" value="Orpailleurs" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
-          <mxGeometry x="540" y="585" width="230" height="148" as="geometry" />
+        <mxCell id="fkNfoiBsVdpP70R4Vi2L-15" value="Pop. d&#39;orpailleurs" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="670" y="600" width="130" height="58" as="geometry" />
         </mxCell>
-        <mxCell id="fkNfoiBsVdpP70R4Vi2L-16" value="+ lieux de vie: char&#xa;+ activités (%): real&#xa;+ densité: real&#xa;+ susceptibilité individuelle (génétique, G6PD, ...) (taux): real&#xa;+ connaissance du risque: real&#xa;+ protections individuelles (taux d&#39;utilisation): real&#xa;+..." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="fkNfoiBsVdpP70R4Vi2L-15">
-          <mxGeometry y="26" width="230" height="114" as="geometry" />
+        <mxCell id="fkNfoiBsVdpP70R4Vi2L-16" value="+ ..." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="fkNfoiBsVdpP70R4Vi2L-15">
+          <mxGeometry y="26" width="130" height="24" as="geometry" />
         </mxCell>
         <mxCell id="fkNfoiBsVdpP70R4Vi2L-17" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="fkNfoiBsVdpP70R4Vi2L-15">
-          <mxGeometry y="140" width="230" height="8" as="geometry" />
+          <mxGeometry y="50" width="130" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="fkNfoiBsVdpP70R4Vi2L-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=diamondThin;endFill=1;" edge="1" parent="1" source="fkNfoiBsVdpP70R4Vi2L-5" target="fkNfoiBsVdpP70R4Vi2L-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fkNfoiBsVdpP70R4Vi2L-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=block;endFill=0;" edge="1" parent="1" source="fkNfoiBsVdpP70R4Vi2L-21" target="fkNfoiBsVdpP70R4Vi2L-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="fkNfoiBsVdpP70R4Vi2L-21" value="Orpailleurs" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="20" y="590" width="130" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="fkNfoiBsVdpP70R4Vi2L-22" value="+ ..." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="fkNfoiBsVdpP70R4Vi2L-21">
+          <mxGeometry y="26" width="130" height="24" as="geometry" />
+        </mxCell>
+        <mxCell id="fkNfoiBsVdpP70R4Vi2L-23" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="fkNfoiBsVdpP70R4Vi2L-21">
+          <mxGeometry y="50" width="130" height="8" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
