@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-12-16T08:38:57.508Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.3" etag="Z6tP4sAb_ba2o9MBVedk" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-16T08:41:05.853Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" version="20.7.3" etag="dDAXtyXUw9cnOUZuZ66c" type="github">
   <diagram id="qIqN_QBV_P0xhIEw-Xfz" name="Page-1">
-    <mxGraphModel dx="2565" dy="519" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5560" dy="2226" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -604,6 +604,11 @@
             <mxPoint x="934.9999999999991" y="698" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="mqnPU8PIk2e7HvB2Qb2y-360" value="&amp;lt; Contribue" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="mqnPU8PIk2e7HvB2Qb2y-171">
+          <mxGeometry x="-0.1123" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="mqnPU8PIk2e7HvB2Qb2y-172" value="Lieu" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#eeeeee;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="788" y="715" width="170" height="98" as="geometry">
             <mxRectangle x="600" y="310" width="90" height="26" as="alternateBounds" />
@@ -1110,6 +1115,12 @@
         </mxCell>
         <mxCell id="mqnPU8PIk2e7HvB2Qb2y-357" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" vertex="1" parent="mqnPU8PIk2e7HvB2Qb2y-355">
           <mxGeometry y="50" width="160" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="mqnPU8PIk2e7HvB2Qb2y-361" value="&amp;lt; Contribue" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="700.0033333333332" y="670.0033333333333" as="geometry" />
+        </mxCell>
+        <mxCell id="mqnPU8PIk2e7HvB2Qb2y-363" value="Contribue &amp;gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="1">
+          <mxGeometry x="590.0033333333332" y="480.00333333333333" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
