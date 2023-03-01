@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-03-01T13:19:02.261Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="YSKs-M_sZ1-wQT7bK0bd" version="20.8.20" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-01T13:21:06.437Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="cs-4bUD7XNQkDr81qYPu" version="20.8.20" type="github">
   <diagram id="iuLg7jn5h-H2lJ3DDNTR" name="Page-1">
-    <mxGraphModel dx="3743" dy="1439" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3130" dy="1142" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,15 +8,15 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jGr4YzGaXGw1v3x4zctD-1" value="Exposition" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="650" y="430" width="100" height="88" as="geometry">
+          <mxGeometry x="650" y="430" width="100" height="100" as="geometry">
             <mxRectangle x="600" y="310" width="90" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jGr4YzGaXGw1v3x4zctD-2" value="+ niveau: real&#xa;+ durée: real&#xa;+ fréquence: real" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="jGr4YzGaXGw1v3x4zctD-1" vertex="1">
-          <mxGeometry y="26" width="100" height="54" as="geometry" />
+        <mxCell id="jGr4YzGaXGw1v3x4zctD-2" value="+ niveau: real&#xa;+ durée: real&#xa;+ lieu: nom, coord.&#xa;+ fréquence: real" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="jGr4YzGaXGw1v3x4zctD-1" vertex="1">
+          <mxGeometry y="26" width="100" height="66" as="geometry" />
         </mxCell>
         <mxCell id="jGr4YzGaXGw1v3x4zctD-3" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="jGr4YzGaXGw1v3x4zctD-1" vertex="1">
-          <mxGeometry y="80" width="100" height="8" as="geometry" />
+          <mxGeometry y="92" width="100" height="8" as="geometry" />
         </mxCell>
         <mxCell id="jGr4YzGaXGw1v3x4zctD-9" value="Aléa" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="120" y="350" width="160" height="78" as="geometry" />
