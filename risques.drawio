@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-03-08T13:52:56.995Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="8T8VEPJze-RbSQw7Xf-N" version="20.8.23" type="github">
+<mxfile host="app.diagrams.net" modified="2023-03-08T13:53:15.219Z" agent="5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36" etag="hTODx9HnVzLbh_Cvf7kz" version="20.8.23" type="github">
   <diagram id="iuLg7jn5h-H2lJ3DDNTR" name="Page-1">
     <mxGraphModel dx="3767" dy="1579" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -96,6 +96,10 @@
         <mxCell id="jGr4YzGaXGw1v3x4zctD-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=0;exitDx=0;exitDy=0;entryX=0.25;entryY=1;entryDx=0;entryDy=0;endArrow=block;endFill=0;" parent="1" source="jGr4YzGaXGw1v3x4zctD-104" target="aclKS8odDFIyqzY5x_yH-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="-5" y="478" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="-567" y="504" />
+              <mxPoint x="-265" y="504" />
+            </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="jGr4YzGaXGw1v3x4zctD-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;startArrow=none;dashed=1;" parent="1" source="gVICrhU735gXl1rfREQs-129" target="gVICrhU735gXl1rfREQs-123" edge="1">
@@ -1312,7 +1316,12 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="gVICrhU735gXl1rfREQs-142" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=17;fontColor=#EA6B66;startArrow=none;startFill=0;endArrow=block;endFill=0;" parent="1" source="gVICrhU735gXl1rfREQs-126" target="aclKS8odDFIyqzY5x_yH-2" edge="1">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="371" y="491" />
+              <mxPoint x="-145" y="491" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="gVICrhU735gXl1rfREQs-126" value="(Occurrence de) piqûre(s) infectante(s) (transmission)" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#dae8fc;strokeColor=#6c8ebf;gradientDirection=east;gradientColor=#E6D0DE;" parent="1" vertex="1">
           <mxGeometry x="211" y="598" width="320" height="80" as="geometry" />
