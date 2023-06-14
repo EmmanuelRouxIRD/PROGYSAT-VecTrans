@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-09T00:38:55.467Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/111.0" etag="qiW0o9Z8nXTwevMsD7zP" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-14T07:20:42.283Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="Ixw3w69KPp-3MigqsRzw" version="21.2.9" type="github">
   <diagram id="iuLg7jn5h-H2lJ3DDNTR" name="Page-1">
-    <mxGraphModel dx="5094" dy="1857" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="6957" dy="3397" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1338,53 +1338,6 @@
         </mxCell>
         <mxCell id="LEBBwrQhv8mEl3ACBH3s-5" value="&lt;div&gt;&lt;b&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;Plano Nacional de Eliminação da Malária / Ministério da Saúde, Secretaria de Vigilância em Saúde, Departamento&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;b&gt;de Imunização e Doenças Transmissíveis. – Brasília : Ministério da Saúde, 2022.&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;ISBN 978-65-5993-185-9&lt;/b&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;Définitions alignées avec celles de l&#39;OMS&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;&quot;&gt;&lt;b style=&quot;background-color: initial;&quot;&gt;&lt;br&gt;&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;b&gt;Receptividade&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Caraterísticas ambientais que tornem possível a presença do vetor e a transmissão&lt;/div&gt;&lt;div&gt;vetorial a partir de reservatórios humanos.&lt;/div&gt;&lt;div&gt;Na prática, consideramos receptiva qualquer área com registro de identificação&lt;/div&gt;&lt;div&gt;de vetores da malária nos últimos cinco anos. No caso de áreas em que não houve&lt;/div&gt;&lt;div&gt;investigação entomológica e, portanto, a ausência de vetores pode ser resultado&lt;/div&gt;&lt;div&gt;apenas de ausência de dados, deve-se considerar as áreas próximas e similares&lt;/div&gt;&lt;div&gt;com informação (Brasil, 2003).&lt;/div&gt;&lt;div&gt;&lt;b&gt;Vulnerabilidade&lt;/b&gt;&lt;/div&gt;&lt;div&gt;Está relacionada ao risco de importação do parasito, seja a partir da chegada&lt;/div&gt;&lt;div&gt;de indivíduos portadores de Plasmodium, oriundos de áreas endêmicas, que&lt;/div&gt;&lt;div&gt;contribuem para iniciar ou reintroduzir a transmissão autóctone em áreas&lt;/div&gt;&lt;div&gt;anteriormente sem transmissão de malária (Brasil et al., 2017), seja a partir de&lt;/div&gt;&lt;div&gt;vetores infectados (Brasil, 2003).&lt;/div&gt;&lt;div&gt;de&lt;/div&gt;&lt;div&gt;A classificação dessas áreas deve levar em conta os conceitos a seguir:&lt;/div&gt;&lt;div&gt;21Municípios com registro de casos importados ou municípios turísticos devem ser,&lt;/div&gt;&lt;div&gt;a princípio, considerados como vulneráveis.&lt;/div&gt;&lt;div&gt;A combinação dessas duas características com a situação epidemiológica&lt;/div&gt;&lt;div&gt;gera os seguintes estratos e irá definir algumas das estratégias que devem&lt;/div&gt;&lt;div&gt;ser consideradas:&lt;/div&gt;&lt;div&gt;&lt;ul&gt;&lt;li&gt;Estrato 1 – Não receptivo.&lt;/li&gt;&lt;li&gt;Estrato 2 – Receptivo, sem casos autóctones, não vulnerável (inclui focos eliminados,&lt;/li&gt;&lt;li&gt;sem casos importados ou nenhuma migração de estados ou países endêmicos).&lt;/li&gt;&lt;li&gt;Estrato 3 – Receptivo, sem casos autóctones, vulnerável (inclui focos eliminados,&lt;/li&gt;&lt;li&gt;com casos importados ou com migração de estados ou países endêmicos).&lt;/li&gt;&lt;li&gt;Estrato 4 – Receptivo, com casos autóctones (inclui focos ativos e residuais).&lt;/li&gt;&lt;ul&gt;&lt;li&gt;4.1 – Em processo de eliminação: Municípios com muito baixa transmissão&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;de malária, IPA&amp;lt;1 ou com menos de dez casos autóctones por ano.&lt;/li&gt;&lt;ul&gt;&lt;li&gt;4.2 – Em busca de redução I: Municípios com baixa transmissão de malária&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;IPA 1-10 ou com 10 a 100 casos autóctones por ano.&lt;/li&gt;&lt;ul&gt;&lt;li&gt;4.3 – Em busca de redução II: Municípios com média e alta transmissão de&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;malária, IPA&amp;gt;=10 ou com cem ou mais casos autóctones por ano.&lt;/li&gt;&lt;/ul&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Os focos podem ser classificados como “ativos” – com transmissão ativa;&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;“residual” – com transmissão interrompida entre um a três anos; e “eliminado”&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;– sem casos autóctones por um período maior ou igual a três anos consecutivos.&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Essa classificação é dinâmica, considerando que, a partir da notificação de um&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;caso autóctone no foco residual ou eliminado, este passa a ser classificado como&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;foco ativo.&lt;/span&gt;&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=#d6b656;fillColor=#fff2cc;" parent="1" vertex="1">
           <mxGeometry x="-2135" y="-228" width="662" height="698" as="geometry" />
-        </mxCell>
-        <mxCell id="zREIKt_UH1Cdwp9Z27mY-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=block;endFill=0;" parent="1" source="zREIKt_UH1Cdwp9Z27mY-1" target="zREIKt_UH1Cdwp9Z27mY-4" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="zREIKt_UH1Cdwp9Z27mY-1" value="Territoire" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" parent="1" vertex="1">
-          <mxGeometry x="2232" y="406" width="210" height="58" as="geometry">
-            <mxRectangle x="600" y="310" width="90" height="26" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zREIKt_UH1Cdwp9Z27mY-2" value="+ nom: &#xa;" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="zREIKt_UH1Cdwp9Z27mY-1" vertex="1">
-          <mxGeometry y="26" width="210" height="24" as="geometry" />
-        </mxCell>
-        <mxCell id="zREIKt_UH1Cdwp9Z27mY-3" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="zREIKt_UH1Cdwp9Z27mY-1" vertex="1">
-          <mxGeometry y="50" width="210" height="8" as="geometry" />
-        </mxCell>
-        <mxCell id="zREIKt_UH1Cdwp9Z27mY-4" value="Lieu" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#eeeeee;strokeColor=#36393d;" parent="1" vertex="1">
-          <mxGeometry x="2251" y="238" width="170" height="98" as="geometry">
-            <mxRectangle x="600" y="310" width="90" height="26" as="alternateBounds" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zREIKt_UH1Cdwp9Z27mY-5" value="+ nom: char&#xa;+ lat: real&#xa;+ long: real&#xa;+ susceptibilité à l&#39;exposition" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="zREIKt_UH1Cdwp9Z27mY-4" vertex="1">
-          <mxGeometry y="26" width="170" height="64" as="geometry" />
-        </mxCell>
-        <mxCell id="zREIKt_UH1Cdwp9Z27mY-6" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="zREIKt_UH1Cdwp9Z27mY-4" vertex="1">
-          <mxGeometry y="90" width="170" height="8" as="geometry" />
-        </mxCell>
-        <mxCell id="zREIKt_UH1Cdwp9Z27mY-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;startArrow=none;startFill=0;endArrow=none;endFill=0;" parent="1" source="zREIKt_UH1Cdwp9Z27mY-8" target="zREIKt_UH1Cdwp9Z27mY-1" edge="1">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="zREIKt_UH1Cdwp9Z27mY-12" value="&amp;gt; vit" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="zREIKt_UH1Cdwp9Z27mY-11" vertex="1" connectable="0">
-          <mxGeometry x="0.2973" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zREIKt_UH1Cdwp9Z27mY-13" value="1..*" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="zREIKt_UH1Cdwp9Z27mY-11" vertex="1" connectable="0">
-          <mxGeometry x="-0.8498" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="zREIKt_UH1Cdwp9Z27mY-8" value="Population humaine" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
-          <mxGeometry x="2166" y="550" width="340" height="148" as="geometry" />
-        </mxCell>
-        <mxCell id="zREIKt_UH1Cdwp9Z27mY-9" value="+ activités (%): real&#xa;+ densité: real&#xa;+ susceptibilité individuelle (génétique, G6PD, ...) (taux): real&#xa;+ connaissance du risque: real&#xa;+ protections individuelles (taux d&#39;utilisation): real&#xa;+..." style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="zREIKt_UH1Cdwp9Z27mY-8" vertex="1">
-          <mxGeometry y="26" width="340" height="114" as="geometry" />
-        </mxCell>
-        <mxCell id="zREIKt_UH1Cdwp9Z27mY-10" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="zREIKt_UH1Cdwp9Z27mY-8" vertex="1">
-          <mxGeometry y="140" width="340" height="8" as="geometry" />
         </mxCell>
         <mxCell id="aclKS8odDFIyqzY5x_yH-1" value="Evénement" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="-309" y="410" width="160" height="78" as="geometry" />
