@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-15T13:11:38.526Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="0VA3VKWR8NSPZcxF3UY2" version="21.3.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-15T16:09:42.146Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36" etag="OfoUo9z9Y4SBth_NoxZK" version="21.3.8" type="github">
   <diagram id="iuLg7jn5h-H2lJ3DDNTR" name="Page-1">
-    <mxGraphModel dx="6957" dy="3397" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4008" dy="1716" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1489,7 +1489,7 @@
             <mxPoint x="43" y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="46LOK8SUC6YvO_i7naGG-25" value="Indicateur de circulation de P.&#xa;(nb. de cas pondéré sur les N derniers mois)" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=42;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" vertex="1" parent="1">
+        <mxCell id="46LOK8SUC6YvO_i7naGG-25" value="Indicateur de circulation de P.&#xa;(nb. de cas pondéré sur les 6 derniers mois)" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=42;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#a0522d;strokeColor=#6D1F00;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="339" y="1875" width="301" height="86" as="geometry" />
         </mxCell>
         <mxCell id="46LOK8SUC6YvO_i7naGG-26" value="+ " style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="46LOK8SUC6YvO_i7naGG-25">
