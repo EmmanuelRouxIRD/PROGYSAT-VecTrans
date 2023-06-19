@@ -1,19 +1,19 @@
-<mxfile host="app.diagrams.net" modified="2023-06-16T09:38:27.336Z" agent="Mozilla/5.0 (X11; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/113.0" etag="qvPFDWkuQkNyqznSkxR3" version="21.4.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-19T18:01:19.219Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/109.0" etag="1W_MOxYy_UAiemB3tlIB" version="21.5.0" type="github">
   <diagram name="Page-1" id="yG6xuPFltWYFbB4pSRWE">
-    <mxGraphModel dx="1705" dy="1739" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1405" dy="872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="jzoXXjVuvR-iTA8XEfTf-1" value="Exposition" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="482" y="450" width="100" height="114" as="geometry">
+          <mxGeometry x="482" y="450" width="120" height="114" as="geometry">
             <mxRectangle x="600" y="310" width="90" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
         <mxCell id="jzoXXjVuvR-iTA8XEfTf-2" value="+ niveau: real&#xa;+ durée: real&#xa;+ lieu: nom, coord.&#xa;+ fréquence: real&#xa;+ date: date" style="text;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="jzoXXjVuvR-iTA8XEfTf-1" vertex="1">
-          <mxGeometry y="26" width="100" height="80" as="geometry" />
+          <mxGeometry y="26" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="jzoXXjVuvR-iTA8XEfTf-3" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="jzoXXjVuvR-iTA8XEfTf-1" vertex="1">
-          <mxGeometry y="106" width="100" height="8" as="geometry" />
+          <mxGeometry y="106" width="120" height="8" as="geometry" />
         </mxCell>
         <mxCell id="jzoXXjVuvR-iTA8XEfTf-4" value="Aléa" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="1" vertex="1">
           <mxGeometry x="180" y="310" width="160" height="78" as="geometry" />
