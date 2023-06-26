@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2023-06-19T18:01:19.219Z" agent="Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:109.0) Gecko/20100101 Firefox/109.0" etag="1W_MOxYy_UAiemB3tlIB" version="21.5.0" type="github">
+<mxfile host="app.diagrams.net" modified="2023-06-26T13:20:04.224Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="7K0xHjuJqqtUWf9hmfxE" version="21.5.0" type="github">
   <diagram name="Page-1" id="yG6xuPFltWYFbB4pSRWE">
-    <mxGraphModel dx="1405" dy="872" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1367" dy="779" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="jzoXXjVuvR-iTA8XEfTf-1" value="Exposition" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#647687;strokeColor=#314354;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="482" y="450" width="120" height="114" as="geometry">
+          <mxGeometry x="472" y="380" width="120" height="114" as="geometry">
             <mxRectangle x="600" y="310" width="90" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -16,26 +16,26 @@
           <mxGeometry y="106" width="120" height="8" as="geometry" />
         </mxCell>
         <mxCell id="jzoXXjVuvR-iTA8XEfTf-4" value="Aléa" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#0050ef;strokeColor=#001DBC;fontColor=#ffffff;" parent="1" vertex="1">
-          <mxGeometry x="180" y="310" width="160" height="78" as="geometry" />
+          <mxGeometry x="320" y="280" width="143" height="78" as="geometry" />
         </mxCell>
         <mxCell id="jzoXXjVuvR-iTA8XEfTf-5" value="+ intensité: type intensité&#xa;+ probabilité" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="jzoXXjVuvR-iTA8XEfTf-4" vertex="1">
-          <mxGeometry y="26" width="160" height="44" as="geometry" />
+          <mxGeometry y="26" width="143" height="44" as="geometry" />
         </mxCell>
         <mxCell id="jzoXXjVuvR-iTA8XEfTf-6" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="jzoXXjVuvR-iTA8XEfTf-4" vertex="1">
-          <mxGeometry y="70" width="160" height="8" as="geometry" />
+          <mxGeometry y="70" width="143" height="8" as="geometry" />
         </mxCell>
         <mxCell id="jzoXXjVuvR-iTA8XEfTf-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=none;endFill=0;dashed=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" parent="1" source="jzoXXjVuvR-iTA8XEfTf-9" target="jzoXXjVuvR-iTA8XEfTf-12" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="222" y="240" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="jzoXXjVuvR-iTA8XEfTf-8" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="jzoXXjVuvR-iTA8XEfTf-9" target="jzoXXjVuvR-iTA8XEfTf-15" edge="1">
+        <mxCell id="jzoXXjVuvR-iTA8XEfTf-8" style="edgeStyle=elbowEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.208;entryDx=0;entryDy=0;endArrow=none;endFill=0;entryPerimeter=0;" parent="1" source="jzoXXjVuvR-iTA8XEfTf-9" target="jzoXXjVuvR-iTA8XEfTf-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="jzoXXjVuvR-iTA8XEfTf-9" value="" style="rhombus;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="522" y="320" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="jzoXXjVuvR-iTA8XEfTf-10" value="" style="endArrow=none;html=1;rounded=0;align=center;verticalAlign=bottom;labelBackgroundColor=none;exitX=1;exitY=0.25;exitDx=0;exitDy=0;edgeStyle=elbowEdgeStyle;" parent="1" source="jzoXXjVuvR-iTA8XEfTf-4" target="jzoXXjVuvR-iTA8XEfTf-9" edge="1">
+        <mxCell id="jzoXXjVuvR-iTA8XEfTf-10" value="" style="endArrow=none;html=1;rounded=0;align=center;verticalAlign=bottom;labelBackgroundColor=none;exitX=1;exitY=0.5;exitDx=0;exitDy=0;edgeStyle=elbowEdgeStyle;" parent="1" source="jzoXXjVuvR-iTA8XEfTf-5" target="jzoXXjVuvR-iTA8XEfTf-9" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="112" y="290" as="sourcePoint" />
           </mxGeometry>
@@ -55,19 +55,19 @@
           <mxGeometry y="52" width="390" height="8" as="geometry" />
         </mxCell>
         <mxCell id="jzoXXjVuvR-iTA8XEfTf-15" value="Enjeu" style="swimlane;fontStyle=1;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" parent="1" vertex="1">
-          <mxGeometry x="800" y="280" width="180" height="58" as="geometry" />
+          <mxGeometry x="600" y="300" width="127" height="58" as="geometry" />
         </mxCell>
         <mxCell id="jzoXXjVuvR-iTA8XEfTf-16" value="+ vulnérabilité " style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" parent="jzoXXjVuvR-iTA8XEfTf-15" vertex="1">
-          <mxGeometry y="26" width="180" height="24" as="geometry" />
+          <mxGeometry y="26" width="127" height="24" as="geometry" />
         </mxCell>
         <mxCell id="jzoXXjVuvR-iTA8XEfTf-17" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;" parent="jzoXXjVuvR-iTA8XEfTf-15" vertex="1">
-          <mxGeometry y="50" width="180" height="8" as="geometry" />
+          <mxGeometry y="50" width="127" height="8" as="geometry" />
         </mxCell>
         <mxCell id="jzoXXjVuvR-iTA8XEfTf-18" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot; face=&quot;Times New Roman&quot;&gt;&lt;font style=&quot;font-size: 20px;&quot; color=&quot;#323232&quot;&gt;&lt;span style=&quot;&quot;&gt;Si l&#39;exposition constitue une condition nécessaire pour que des impacts se produisent,&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size: 20px;&quot; color=&quot;#323232&quot;&gt;&lt;span style=&quot;&quot;&gt;ce n&#39;est toutefois pas une condition suffisante.&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size: 20px;&quot; color=&quot;#323232&quot;&gt;&lt;span style=&quot;&quot;&gt;Il faut en effet&amp;nbsp;que les sociétés ou populations exposées soient vulnérables.&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size: 20px;&quot; color=&quot;#323232&quot;&gt;&lt;span style=&quot;&quot;&gt;La vulnérabilité peut être définie comme la «&amp;nbsp;propension ou prédisposition à subir des dommages&amp;nbsp;» [GIEC, 2012, p.&amp;nbsp;4]&lt;/span&gt;&lt;/font&gt;&lt;br&gt;&lt;font style=&quot;font-size: 20px;&quot; color=&quot;#323232&quot;&gt;&lt;span style=&quot;&quot;&gt;https://www.cairn.info/l-adaptation-au-changement-climatique--9782707174697-page-23.htm&lt;br&gt;&lt;/span&gt;&lt;/font&gt;&lt;br&gt;vulnérabilité permet de répondre à la question:&lt;br&gt;&lt;b&gt;Si&lt;/b&gt; l&#39;individu ou la population (i.e. l&#39;enjeu) est &lt;b&gt;exposé(e)&lt;/b&gt;,&lt;br&gt;&lt;b&gt;quel(le) est le niveau/l&#39;importance des dommages qu&#39;il/elle est susceptible de subir ?&lt;/b&gt;&lt;/font&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=#FFF4C3;" parent="1" vertex="1">
           <mxGeometry x="670" y="679" width="970" height="230" as="geometry" />
         </mxCell>
         <mxCell id="jzoXXjVuvR-iTA8XEfTf-19" value="&lt;p style=&quot;margin: 0.5em 0px 1em; padding: 0px; text-indent: 15px; line-height: 100%;&quot;&gt;&lt;b&gt;Olivier Dequincey, Pierre Thomas, 01/12/2017.&amp;nbsp;&lt;/b&gt;&lt;b&gt;Aléas et risques, Planet Terre - ISSN 2552-9250,&amp;nbsp;&lt;/b&gt;&lt;b&gt;Définir et comprendre ce qu&#39;est un aléa, un enjeu, une vulnérabilité et un risque.&lt;/b&gt;&lt;br&gt;&lt;b&gt;Exemples et approche des particularités du risque climatique (&lt;/b&gt;&lt;b&gt;https://planet-terre.ens-lyon.fr/ressource/FEL2017.xml)&amp;nbsp;&lt;/b&gt;&lt;br&gt;&lt;span style=&quot;margin: 0px; padding: 0px;&quot; class=&quot;bold&quot;&gt;&lt;strong style=&quot;margin: 0px; padding: 0px;&quot;&gt;Aléa&lt;/strong&gt;&lt;/span&gt;&amp;nbsp;[naturel] = événement / phénomène [naturel] plus ou moins prévisible, hors de contrôle. On décrit un aléa par sa nature, sa localisation, sa fréquence (probabilité et/ou date d&#39;occurrence) et son intensité.&lt;br&gt;&lt;span style=&quot;margin: 0px; padding: 0px;&quot; class=&quot;bold&quot;&gt;&lt;strong style=&quot;margin: 0px; padding: 0px;&quot;&gt;Vulnérabilité&lt;/strong&gt;&lt;/span&gt;&amp;nbsp;= fragilité (effets néfastes prévisibles) d&#39;un&amp;nbsp;&lt;span style=&quot;margin: 0px; padding: 0px;&quot; class=&quot;bold&quot;&gt;&lt;strong style=&quot;margin: 0px; padding: 0px;&quot;&gt;enjeu&lt;/strong&gt;&lt;/span&gt;&amp;nbsp;(population, activité et/ou construction humaines) face à un aléa.&lt;br&gt;&lt;span style=&quot;margin: 0px; padding: 0px;&quot; class=&quot;bold&quot;&gt;&lt;strong style=&quot;margin: 0px; padding: 0px;&quot;&gt;Risque&lt;/strong&gt;&lt;/span&gt;&amp;nbsp;= éventualité d&#39;occurrence d&#39;un événement dommageable lié à l&#39;exposition d&#39;enjeux vulnérables à un aléa. L&#39;aléa est alors perçu comme un danger.&lt;br&gt;Remarque&amp;nbsp;: en l&#39;absence d&#39;enjeu, il n&#39;y a pas de risque. Par exemple, il n&#39;y a pas de risque si des séismes (même fréquents et intenses) touchent une zone non peuplée, non exploitée.&lt;br&gt;&lt;/p&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontFamily=Times New Roman;labelBackgroundColor=#FFF4C3;" parent="1" vertex="1">
-          <mxGeometry x="676" y="450" width="1680" height="160" as="geometry" />
+          <mxGeometry x="1010" y="530" width="1680" height="160" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
